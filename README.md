@@ -21,7 +21,7 @@ Want to get paid for your contributions to `jest-image-snapshot`?
 
 * [Features](#-features)
 * [Usage](#-usage)
-* [API](#-aPI)
+* [API](#-api)
 * [Available Scripts](#-available-scripts)
 * [Contributing](#-contributing)
 
