@@ -101,8 +101,7 @@ Please note that `Jest` `>=20 <=24` is a peerDependency. `jest-image-snapshot` w
 
 See [the examples](./examples/README.md) for more detailed usage or read about an example use case in the [American Express Technology Blog](https://americanexpress.io/smile-for-the-camera/)
 
-## 🎛️ API
-
+## 🎛️API
 `toMatchImageSnapshot()` takes an optional options object with the following properties:
 
 * `customDiffConfig`: Custom config passed to [pixelmatch](https://github.com/mapbox/pixelmatch#pixelmatchimg1-img2-output-width-height-options) (See options section)
