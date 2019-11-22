@@ -19,11 +19,22 @@ Want to get paid for your contributions to `jest-image-snapshot`?
 
 ## 📖 Table of Contents
 
-* [Features](#-features)
-* [Usage](#-usage)
-* [API](#-api)
-* [Available Scripts](#-available-scripts)
-* [Contributing](#-contributing)
+- [✨ Features](#--features)
+  * [How it works](#how-it-works)
+  * [See it in action](#see-it-in-action)
+- [🤹‍ Usage](#----usage)
+  * [Installation](#installation)
+  * [Invocation](#invocation)
+- [🎛️ API](#----api)
+  * [jest.retryTimes()](#jestretrytimes--)
+  * [Recipes](#recipes)
+    + [Upload diff images from failed tests](#upload-diff-images-from-failed-tests)
+    + [Usage in TypeScript](#usage-in-typescript)
+    + [Ignoring parts of the image snapshot if using [Puppeteer](https://github.com/GoogleChrome/puppeteer)](#ignoring-parts-of-the-image-snapshot-if-using--puppeteer--https---githubcom-googlechrome-puppeteer-)
+- [📜 Available Scripts](#---available-scripts)
+- [🏆 Contributing](#---contributing)
+- [🗝️ License](#----license)
+- [🗣️ Code of Conduct](#----code-of-conduct)
 
 ## ✨ Features
 
